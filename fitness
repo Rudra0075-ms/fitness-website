@@ -32,10 +32,10 @@
   </style>
 </head>
 <body>
-  <h1>😂 Meme Zone</h1>
-  <div class="meme-grid">
-    <img src="memes/meme1.jpg" alt="Meme 1">
-    <img src="memes/meme2.jpg" alt="Meme 2">
+  <h1>😂 fitness Zone</h1>
+  <div class="fitness-grid">
+    <img src="fitness/fitness1.jpg" alt="fitness 1">
+    <img src="fitness/fitness2.jpg" alt="fitness 2">
     <img src="memes/meme3.jpg" alt="Meme 3">
     <img src="memes/meme4.jpg" alt="Meme 4">
     <img src="memes/meme5.jpg" alt="Meme 5">
